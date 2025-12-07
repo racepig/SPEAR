@@ -6,6 +6,7 @@ This website is a fake webstore that sells spaceships.
 The logo and name were created by me.
 
 fonts used:
+
 Sakana - https://www.1001fonts.com/sakana-font.html
 
 Ethnocentric - https://www.1001fonts.com/ethnocentric-font.html
